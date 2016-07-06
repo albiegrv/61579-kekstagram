@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Альберт Шариков](https://up.htmlacademy.ru/javascript/5/user/61579).
-* Наставник: `Неизвестно`.
+* Наставник: `-`.
 
 ---
 
